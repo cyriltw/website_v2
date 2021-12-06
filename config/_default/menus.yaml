@@ -7,6 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Blog
+    url: 'https://blog.cyrilw.com'
+    weight: 20
   - name: Projects
     url: '#projects'
     weight: 30
@@ -23,5 +26,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
  - name: CV
-   url: uploads/Cyril_Resume.pdf
+   url: 'uploads/Cyril_Resume.pdf'
    weight: 70
